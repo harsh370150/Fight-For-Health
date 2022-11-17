@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 022b6aef834d5a24cab22c4c9648dc35
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 917474025918097418
+    second: down mouth|CylinderAction
+  - first:
+      74: 1627393232611310987
+    second: down mouth|CylinderAction.001
+  - first:
+      74: 4983162751334695049
+    second: down mouth|CylinderAction.002
+  - first:
+      74: 4878132091205269990
+    second: down mouth|CylinderAction.003
+  - first:
+      74: 4583963244755961301
+    second: down mouth|PlaneAction
+  - first:
+      74: -771419582029955639
+    second: down mouth|Plane|Plane|PlaneAction
+  - first:
+      74: -9110365200992963703
+    second: down mouth|down mouth|down mouth|CylinderAction
+  - first:
+      74: -5137646060975879140
+    second: down mouth|down mouth|down mouth|CylinderAction.001
+  - first:
+      74: -8828621378948432611
+    second: down mouth|down mouth|down mouth|CylinderAction.002
+  - first:
+      74: 1328218271421298383
+    second: down mouth|down mouth|down mouth|CylinderAction.003
+  - first:
+      74: -6708017285416398184
+    second: down mouth|down mouth|down mouth|PlaneAction
+  - first:
+      74: 9092151560223529461
+    second: down mouth|down mouth|down mouth|Plane|Plane|PlaneAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
